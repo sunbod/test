@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "8a36ab24-1db5-44df-83ef-6465e7a37cb7",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "get_flask_web_index",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://flask.digiits.lab",
+					"protocol": "http",
+					"host": [
+						"flask",
+						"digiits",
+						"lab"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
